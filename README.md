@@ -1,6 +1,6 @@
 # rime-sync
 
-通过Git全平台同步Rime的Shell脚本
+通过Git同步Rime的Shell脚本
 
 
 ## 前期准备
